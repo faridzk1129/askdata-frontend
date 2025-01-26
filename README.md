@@ -1,3 +1,22 @@
+# Ask-Data  
+
+Ask-Data is a web application designed using modern technologies such as FastAPI, Next.js, Langchain (leveraging the ChatGPT API), Docker, Python, MySQL, and TailwindCSS.  
+
+This application operates similarly to ChatGPT, allowing users to ask natural language questions related to company data, such as:  
+*"What was the total revenue from marketing campaigns during the last quarter?"*  
+
+### How It Works:  
+1. The user submits a question in natural language.  
+2. The LLM model converts the question into an SQL query.  
+3. The SQL query retrieves data from the company's database.  
+4. The retrieved data is then transformed back into human-readable language.  
+
+This application aims to simplify the process of exploring and understanding company data efficiently, without requiring users to have knowledge of SQL or database structures.  
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
