@@ -1,7 +1,7 @@
 # Ask-Data  
 
 
-# In this repo only the front end side you can find the backend side of askdata in my other repo
+# In this repo only the front end side, you can find the backend side of askdata in my other repo
 
 Ask-Data is a web application designed using modern technologies such as FastAPI, Next.js, Langchain (leveraging the ChatGPT API), Docker, Python, MySQL, and TailwindCSS.  
 
